@@ -15,8 +15,8 @@ const users = [
     id: 2,
   },
   {
-    nombre: 'Miguel',
-    edad: 67,
+    nombre: 'Sergio',
+    edad: 25,
     imgUrl: 'https://icon-library.com/images/avatar-icon/avatar-icon-6.jpg',
     imgAlt: 'alt',
     id: 3,
